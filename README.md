@@ -6,11 +6,11 @@
 
 ## 👨‍🚀 About Me
 
-- 🎓 CS undergrad & passionate self-learner
-- 🤖 Interested in **AI, Computer Vision & ML**
-- ⚙️ Building projects across **Python | ROS | Jetson | Flutter**
-- 🚀 Love working on hackathon ideas, agents & autonomous robots
-- 🌱 Currently learning: **LLMs, MLOps & Reinforcement Learning**
+- 🎓 Electrical Engineering undergrad & passionate self-learner  
+- 🤖 Interested in **AI, Deep Learning, Computer Vision & Quant Finance**  
+- ⚙️ Building projects using **Python, Deep Learning & ML pipelines**  
+- 🚀 Love exploring research, agents & solving real-world problems  
+- 🌱 Currently learning: **MLOps & scaling AI models**
 
 ---
 
@@ -37,24 +37,14 @@
 
 ---
 
-## 🚀 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushagraGupta&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KushagraGupta&theme=tokyonight&hide_border=false" height="165"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](your_link_here)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](your_kaggle_here)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your_instagram_here)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](your_portfolio_if_any)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-gupta-b1467b321/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kushagragupta28xoxo)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagragupta2810@gmail.com)
 
 </div>
 
